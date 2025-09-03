@@ -1,0 +1,15 @@
+                 DIFERENÇAS ENTRE GITHUB E GITLAB
+                                |
+        ------------------------------------------------
+        |                                              |
+     GITHUB                                         GITLAB
+        |                                              |
+   Pertence à Microsoft                        Plataforma DevOps completa
+   Maior comunidade de devs                    Código aberto (CE)
+   Foco em open source                         Forte em uso empresarial
+   GitHub Actions (CI/CD)                      CI/CD nativo e robusto
+   Hospedagem na nuvem                         Pode ser self-hosted
+   Interface popular e simples                 Gestão de projetos avançada
+        |                                              |
+   Melhor para projetos                         Melhor para empresas
+   colaborativos globais                         e controle interno
